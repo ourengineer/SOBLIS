@@ -1,0 +1,37 @@
+/* static/style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items:;
+    height: 100vh;
+    margin: 0;
+.container {
+   : white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+h1 {
+   -bottom: 20px;
+input[type="email"], input[type="password {
+    width: 100%;
+   : 10px;
+   : 5px 0;
+   : 1px solid #ddd;
+   : 4px;
+ {
+   : 100%;
+   : 10px;
+   : #007BFF;
+    color:;
+   : none;
+   : 4px;
+    cursor: pointer;
+:hover {
+   : #0056b3;
+ul {
+    list-style-type: none;
+   : 0;
+.danger {
+   : red;
