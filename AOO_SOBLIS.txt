@@ -1,0 +1,84 @@
+Aquí tienes un borrador de *Articles of Organization* para la ONG "Society of Body Language International Standard", SOBLIS. Está adaptado para registrar como Nonprofit Corporation en la mayoría de estados de http://EE.UU. Revísalo con un abogado local antes de presentar.
+
+---
+
+*ARTICLES OF ORGANIZATION*
+*OF*
+*SOCIETY OF BODY LANGUAGE INTERNATIONAL STANDARD, INC.*
+*A NONPROFIT CORPORATION*
+
+Pursuant to the Nonprofit Corporation Act of the State of [STATE], the undersigned, acting as Incorporator, adopts the following Articles of Organization:
+
+*ARTICLE I - NAME*
+The name of the corporation is: Society of Body Language International Standard, Inc.
+The corporation may also operate under the acronym: SOBLIS.
+
+*ARTICLE II - DURATION*
+The period of duration of the corporation is perpetual.
+
+*ARTICLE III - PURPOSE*
+This corporation is organized exclusively for charitable, educational, and scientific purposes under Section 501(c)(3) of the Internal Revenue Code, or the corresponding section of any future federal tax code.
+
+Specifically, the purposes for which the corporation is organized are:
+
+1. To establish, maintain, and promote international standards for the research, analysis, and ethical application of body language and nonverbal communication.
+2. To provide education, training, and certification to professionals in fields including psychology, law enforcement, diplomacy, education, and business.
+3. To conduct and publish peer-reviewed scientific research on nonverbal behavior and cross-cultural communication patterns.
+4. To create public awareness programs that reduce miscommunication and promote empathy through understanding of nonverbal cues.
+5. To engage in any other lawful activity consistent with the above purposes for which corporations may be organized under the Nonprofit Corporation Act.
+
+Notwithstanding any other provision of these Articles, the corporation shall not carry on any other activities not permitted to be carried on by a corporation exempt from federal income tax under Section 501(c)(3).
+
+*ARTICLE IV - PROHIBITED ACTIVITIES*
+1. No part of the net earnings of the corporation shall inure to the benefit of, or be distributable to its members, directors, officers, or other private persons, except that the corporation shall be authorized to pay reasonable compensation for services rendered.
+2. No substantial part of the activities of the corporation shall be the carrying on of propaganda, or otherwise attempting to influence legislation. The corporation shall not participate in, or intervene in any political campaign on behalf of any candidate for public office.
+3. The corporation shall not carry on any activities not permitted to be carried on by a corporation exempt from federal income tax under Section 501(c)(3).
+
+*ARTICLE V - MEMBERS*
+The corporation shall have members. The conditions and qualifications for membership, and the rights and privileges of members, shall be set forth in the Bylaws.
+
+*ARTICLE VI - REGISTERED OFFICE AND AGENT*
+The street address of the initial registered office is:
+[Street Address]
+[City][State][Zip]
+
+The name of the initial registered agent at such address is:
+[Registered Agent Name]
+
+*ARTICLE VII - INITIAL BOARD OF DIRECTORS*
+The initial Board of Directors shall consist of at least three (3) directors. The names and addresses of the persons who are to serve as the initial directors are:
+
+1.,
+2.,
+3.,[Name][Address]
+
+*ARTICLE VIII - INCORPORATOR*
+The name and address of the incorporator is:
+[Your Name],[Address]
+
+*ARTICLE IX - DISSOLUTION*
+Upon the dissolution of the corporation, assets shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or shall be distributed to the federal government, or to a state or local government, for a public purpose. Any such assets not so disposed of shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the corporation is then located, exclusively for such purposes.
+
+*ARTICLE X - AMENDMENTS*
+These Articles may be amended in the manner provided by law and by the Bylaws of the corporation.
+
+*IN WITNESS WHEREOF*, the undersigned incorporator has executed these Articles of Organization on this *__ day of **_**_*, 2026.
+
+*_**_**_**_**_*
+[Your Name], Incorporator
+
+---
+
+*Pasos siguientes para SOBLIS:*
+
+1. *Estado*: Decide dónde incorporar. Delaware, California, y Nevada son comunes. California tiene sentido por tu ubicación en Grand Terrace.
+2. *EIN*: Después de presentar, solicita un Employer Identification Number al IRS con Form SS-4.
+3. *501(c)(3)*: Presenta Form 1023 o 1023-EZ al IRS para exención fiscal federal.
+4. *Bylaws*: Redacta estatutos que definan cómo elige SOBLIS a su board, cómo certifica estándares, y cómo admite miembros.
+5. *Registro estatal*: Regístrate para solicitar donaciones en CA con el Form CT-1 ante el Attorney General.
+
+*Cláusulas opcionales para SOBLIS:*
+- *Estándares*: "The Board shall appoint a Standards Committee responsible for drafting and maintaining the International Standard for Body Language Analysis, ISBL-1."
+- *Certificación*: "The corporation may grant certifications to individuals who meet competency requirements as established by the Board."
+
+¿Quieres que adapte esto para California específicamente, que redacte los Bylaws iniciales, o que agregue la cláusula de la Junta Científica Asesora?
